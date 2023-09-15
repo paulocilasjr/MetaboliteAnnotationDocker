@@ -2,4 +2,4 @@
 Docker container for annotating metabolites
 
 
-`docker build - < dockerfile`
+`docker build -t testanno1 -f ./dockerfile`
